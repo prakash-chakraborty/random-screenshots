@@ -4,7 +4,7 @@
     //$('.sidenav').sidenav();
     $("#numberofscreenshots").val("5")
     console.log("Under the hood it's running a V8. Javascript V8!");
-    $("#footerYear").html("YOLO " + new Date().getFullYear())
+    $("#footerYear").html("&copy Internet Screenshots " + new Date().getFullYear())
   });
 })(jQuery);
 
