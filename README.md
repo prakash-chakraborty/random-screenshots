@@ -6,3 +6,5 @@ This project generates 1-10 number of random links to prnt.sc site, where you ca
 If you decide to fork or mess around the code or deploy on your own, make sure to remove my google analytics/fb pixel tags from the header. Cheers.
 
 Made with good old *jQuery*
+
+--
